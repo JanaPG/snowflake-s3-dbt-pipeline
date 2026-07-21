@@ -8,7 +8,7 @@ End-to-end data pipeline project.
 ### Steps completed
 - [x] S3 bucket setup
 - [x] Snowflake storage integration
-- [ ] External stage creation
-- [ ] COPY INTO raw table
+- [x] External stage creation - completed on july 22 2026
+- [x] COPY INTO raw table - completed on july 22 2026
 - [ ] dbt staging models
 - [ ] dbt mart models
